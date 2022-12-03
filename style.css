@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-size: 2rem;  
+  font-family: arial;
+  text-align: center;
+}
+
+.container {
+
+}
+
+button {
+    min-width: 200px;
+    margin-top: 50px;
+}
+
+#counter {
+    margin-top: 150px;
+}
